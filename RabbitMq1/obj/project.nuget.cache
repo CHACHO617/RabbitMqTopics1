@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H+paA2gmDh6OOK0ADcn30G+LrqG8ib2tiKY2q4/oaZwMYjArk/GE0+LryleaHYj853fO0FIqS3SOPaYu4ZPeRQ==",
+  "dgSpecHash": "Z/dp1X5T+9jizJTPHgHfkqLsGQWsIq7lvES0SWxiMNwTAn3udbfBDoxcZfbRXNzCs3BMe2AjvUHuhFXJQEE31g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emeri\\source\\repos\\RabbitMq1\\RabbitMq1\\RabbitMq1.csproj",
+  "projectFilePath": "C:\\Users\\emeri\\foldergit\\RabbitMqTopics\\RabbitMq1\\RabbitMq1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emeri\\.nuget\\packages\\rabbitmq.client\\6.7.0\\rabbitmq.client.6.7.0.nupkg.sha512",
     "C:\\Users\\emeri\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

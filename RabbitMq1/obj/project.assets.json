@@ -129,11 +129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emeri\\source\\repos\\RabbitMq1\\RabbitMq1\\RabbitMq1.csproj",
+      "projectUniqueName": "C:\\Users\\emeri\\foldergit\\RabbitMqTopics\\RabbitMq1\\RabbitMq1.csproj",
       "projectName": "RabbitMq1",
-      "projectPath": "C:\\Users\\emeri\\source\\repos\\RabbitMq1\\RabbitMq1\\RabbitMq1.csproj",
+      "projectPath": "C:\\Users\\emeri\\foldergit\\RabbitMqTopics\\RabbitMq1\\RabbitMq1.csproj",
       "packagesPath": "C:\\Users\\emeri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emeri\\source\\repos\\RabbitMq1\\RabbitMq1\\obj\\",
+      "outputPath": "C:\\Users\\emeri\\foldergit\\RabbitMqTopics\\RabbitMq1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
