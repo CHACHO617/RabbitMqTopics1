@@ -56,12 +56,12 @@ class EmailConsumer
         var smtpClient = new SmtpClient("smtp.gmail.com")
         {
             Port = 587,
-            Credentials = new NetworkCredential("emerizalde.alt@gmail.com", "nocr cixc kvxi gyal"),
+            Credentials = new NetworkCredential("$$$", "nocr cixc kvxi gyal"),
             EnableSsl = true,
         };
 
         // Create and send the email
-        var mail = new MailMessage("emerizalde.alt@gmail.com", recipientEmail)
+        var mail = new MailMessage("$$$", recipientEmail)
         {
             Subject = "Email from RabbitMQ",
             Body = emailMessage,
