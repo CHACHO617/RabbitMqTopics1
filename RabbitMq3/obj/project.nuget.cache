@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3EModcdCY6vgTbXcAaVjqIP9JGjNP751sgRk/Juq1nhqdyiZdiRlv9iT4KHgV8e4g86xAhfa+942/LNPBBHpTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emeri\\source\\repos\\RabbitMq2\\RabbitMq3\\RabbitMq3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emeri\\.nuget\\packages\\rabbitmq.client\\6.7.0\\rabbitmq.client.6.7.0.nupkg.sha512",
+    "C:\\Users\\emeri\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\emeri\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
